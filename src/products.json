@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "RTX8090",
+        "price": 80900,
+        "image": "https://img-9gag-fun.9cache.com/photo/a4o6v76_460s.jpg"
+    },
+    {
+        "id": 2,
+        "name": "CR7",
+        "price": 3572000000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQswWcorHHnUGUEpil40EpvPck8WsEOywsBczXoPcrSuzZMCriqP4Dc7EO3&s=10"
+    },
+    {
+        "id": 3,
+        "name": "Ultraman",
+        "price": 2000,
+        "image": "https://play-lh.googleusercontent.com/-vmp0X5QetRCtlB3ploONKUJ3J_BR2AhRBttfO3hymCiBFoSAylmKYj8Vhz-IWYaC79XYBtkD_MceUMWNWFb=s0-br30"
+    },
+    {
+        "id": 4,
+        "name": "Elon Musk",
+        "price": 300,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN8SjOY-z2f4DZGROjCBJpvDuFfuUx1pdX6syZP0KKuvGZryDscIG2zpg&s=10"
+    },
+    {
+        "id": 5,
+        "name": "Pao",
+        "price": 199,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoO9P9papAFPWrQOjhzAM45H8K0VIfYRJTu1hEn_Z22dBnMla3Zsmf9wk&s=10"
+    },
+    {
+        "id": 6,
+        "name": "Bill Gates",
+        "price": 599,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/500px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Steve Jobs",
+        "price": 499,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Steve_Jobs_Headshot_2010_%28cropped_6%29.jpg/500px-Steve_Jobs_Headshot_2010_%28cropped_6%29.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Mark Zuckerberg",
+        "price": 250,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/P20260929DT-1655_%2855561811540%29_%28cropped_2%29.jpg/500px-P20260929DT-1655_%2855561811540%29_%28cropped_2%29.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Jeff Bezos",
+        "price": 350,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/500px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Lionel Messi",
+        "price": 999,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/500px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg"
+    }
+]
