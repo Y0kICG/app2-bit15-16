@@ -18,7 +18,14 @@ export default function App(){
       keyExtractor={(item) => item.id.toString()}
 
       renderItem={({item}) => (
-        <Card id={item.id} name={item.name} price={item.price} image={item.image} />
+        <Card
+          id={item.id}
+          name={item.name}
+          price={item.price}
+          stock={item.stock}
+          category={item.category}
+          image={item.image}
+        />
       )}
 
       />
